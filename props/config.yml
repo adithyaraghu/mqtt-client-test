@@ -1,0 +1,3 @@
+topics:
+  conn-sub-admin-topic : connectivity/internet/status/set
+  conn-pub-status-topic : connectivity/internet/status
